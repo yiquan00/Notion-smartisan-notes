@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![644shots_so](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/3d6e36cc-9e05-4feb-b8ab-f181f3b66b6e)
 
 
-## Getting Started
+## 开始部署
 
 1️⃣ 根目录创建.env.local文件，填入Notion集成Key和数据表的ID 
 （此步骤请参考谷歌、百度）
