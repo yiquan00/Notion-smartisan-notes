@@ -51,6 +51,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 其他说明
  注意： 这只是自己通过ChatGPT 辅助代码的一个demo产品，难免会有样式兼容、功能缺陷问题，因精力有限，无法一一修复，欢迎一起讨论。
+
+ 
 <img src="https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/856e92dc-9640-4656-84e9-c6cde81a2391" width="300" height="auto" alt="image">
 
  
