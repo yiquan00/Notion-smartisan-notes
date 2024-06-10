@@ -39,11 +39,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 其他说明
  注意： 这只是自己通过ChatGPT 辅助代码的一个demo产品，难免会有样式兼容、功能缺陷问题，因精力有限，无法一一修复，欢迎一起讨论。
- ![image](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/856e92dc-9640-4656-84e9-c6cde81a2391)
+![image](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/856e92dc-9640-4656-84e9-c6cde81a2391?width=300)
 
  
  如产品对你的项目有所帮助，可小额赞赏，感谢你的在线投喂，代表我的猫感谢你。
  
-![image](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/5c5c41d5-ca77-4fce-9249-546e028c6205)
+![image](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/5c5c41d5-ca77-4fce-9249-546e028c6205?width=200)
 
 
