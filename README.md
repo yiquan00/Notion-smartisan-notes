@@ -43,6 +43,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
  
  如产品对你的项目有所帮助，可小额赞赏，感谢你的在线投喂，代表我的猫感谢你。
- <img src="[https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/856e92dc-9640-4656-84e9-c6cde81a2391](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/5c5c41d5-ca77-4fce-9249-546e028c6205)" width="300" height="auto" alt="image">
+ <img src="https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/5c5c41d5-ca77-4fce-9249-546e028c6205" width="300" height="auto" alt="image">
 
 
