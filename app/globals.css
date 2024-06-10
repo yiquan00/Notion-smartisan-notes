@@ -1,0 +1,148 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    rgb(var(--background-end-rgb))
+  ) rgb(var(--background-start-rgb));
+}
+
+header{
+	background:url('../public/KE.png') no-repeat center center;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0 0 50rpx 0;
+  font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+}
+
+/* 自定义颜色 */
+.bg-brown-light {
+  background-color: #bc8f8f;
+}
+
+.bg-brown-dark {
+  background-color: #5d4037;
+}
+
+.truncate {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+
+
+.date {
+  color: #555;
+  font-size: 0.875rem;
+  margin-bottom: 0.25rem;
+}
+
+.content {
+  color: #333;
+  font-size: 1rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+
+
+/* 自定义样式 */
+.note-item {
+  background-size: cover;
+  background-position: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+  transition: transform 0.3s ease;
+}
+/* 自定义样式 */
+.note-item {
+  /* background: url('../public/Vt.9.png') no-repeat center center; */
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+.note-item::before {
+  content: '';
+  position: absolute;
+  left: -20px;
+  top: 0;
+  bottom: 0;
+  width: 30px;
+  background: url('../public/h-1.png') no-repeat center center;
+  background-size: cover;
+  transition: background 0.3s ease;
+}
+
+.note-item.sliding-right::before {
+  background: url('../public/0M.png') no-repeat center center;
+  background-size: cover;
+  left:-120px;
+}
+
+.delete-button {
+  position: absolute;
+  background-image:url('../public/Zs.png');
+  background-size:110.5px 53px;
+  left: -100px;
+  z-index: -10;
+  top: 0;
+  bottom: 0;
+  margin: auto 0;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  width: 100px;
+  height: 50px;
+  /* background-color: #e74c3c; */
+  transition: left 0.3s ease;
+}
+
+.note-item.sliding-right {
+  transform: translateX(100px);
+}
+
+/* .note-item.sliding-right .delete-button {
+  left: -100px;
+  
+} */
+
+.add-new{
+	background:url('../public/0_.png') no-repeat center center ;
+	background-size: 26px;
+	padding: 16px 24px;
+}
