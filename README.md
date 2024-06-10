@@ -2,11 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## 效果预览
 
+![423shots_so](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/19b44195-9021-4c90-94d2-6946705fd421)
+
 ![541shots_so](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/0a55db4a-cde7-4308-987d-7bee7debec21)
 
 ![643shots_so](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/2894150d-ae21-4ef3-8827-99fc77c58375)
 
-![423shots_so](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/19b44195-9021-4c90-94d2-6946705fd421)
+
 ![644shots_so](https://github.com/yiquan00/Notion-smartisan-notes/assets/28920229/3d6e36cc-9e05-4feb-b8ab-f181f3b66b6e)
 
 
